@@ -1,5 +1,7 @@
 # Diploma
 
+В репозитории проект с фреймворком лежит в каталоге framework.
+
 * В данный файл внесите свои данные для входа в ЛК ЛЭТИ для запуска тестов.
 C:\Users\alina\IdeaProjects\try\src\test\resources\config.properties
 
